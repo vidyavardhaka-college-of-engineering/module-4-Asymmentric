@@ -18,3 +18,4 @@ int main()
 
     printf("Sum of feet = %d ",sum.feet);//Enter the missing code
     return 0;
+}
